@@ -1,4 +1,4 @@
-# Hi 👋 Iam Mr.Developer
+# 👋 Hi Iam Mr.Developer
 Web developer interested in software and tools development.
 
 ## 🛠 
@@ -7,4 +7,4 @@ Web developer interested in software and tools development.
 - Frameworks            : React, Figma
 
 ## 📫 
-- Gmail: xdevoleper@gmail.com
+- Gmail: mohamedelnil11@gmail.com
